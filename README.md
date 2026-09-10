@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner" width="100%">
+</p>
+
 # Hi, I'm Marco 👋
 📍 Based in Rome, Italy
 
