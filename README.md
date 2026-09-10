@@ -60,3 +60,9 @@ I'm currently working on my Master's thesis in Bioinformatics, focused on multi-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marco-Pedicillo/Marco-Pedicillo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marco-Pedicillo/Marco-Pedicillo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Marco-Pedicillo/Marco-Pedicillo/output/github-snake.svg" />
+</picture>
